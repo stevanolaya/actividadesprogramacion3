@@ -1,0 +1,50 @@
+{
+    "movies": [
+      {
+        "title": "Misión Imposible",
+        "image": "caratulas/Mission_Impossible_Fallout_A.jpeg",
+        "category": "accion"
+      },
+      {
+        "title": "Soy Leyenda",
+        "image": "caratulas/Soy_Leyenda_A.jpeg",
+        "category": "accion"
+      },
+      {
+        "title": "Deadpool",
+        "image": "caratulas/Deadpool_AC.jpeg",
+        "category": "accion"
+      },
+      {
+        "title": "Agente Secreto",
+        "image": "caratulas/Agente_Secreto_C.jpg",
+        "category": "comedia"
+      },
+      {
+        "title": "Free Guy",
+        "image": "caratulas/Free_Guy_C.jpeg",
+        "category": "comedia"
+      },
+      {
+        "title": "Ghost Busters",
+        "image": "caratulas/Ghost_Busters_C.jpeg",
+        "category": "comedia"
+      },
+      {
+        "title": "Rey León",
+        "image": "caratulas/Rey_Leon_An.jpg",
+        "category": "animada"
+      },
+      {
+        "title": "Shrek",
+        "image": "caratulas/Shrek_An.webp",
+        "category": "animada"
+      },
+      {
+        "title": "Toy Story",
+        "image": "caratulas/Toy_Story_An.webp",
+        "category": "animada"
+      }
+    ]
+  }
+  
